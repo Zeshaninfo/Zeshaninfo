@@ -1,4 +1,4 @@
-#this is my Gay program
+#this is my first if program in python
 x=input('which colour do you want?') #asking the customer their preference of colour
 if x=="Blue": #if the input is blue in colour then the price would be 650
     print('price is 650')
